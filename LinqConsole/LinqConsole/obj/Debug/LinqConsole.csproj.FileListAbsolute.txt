@@ -1,0 +1,11 @@
+D:\practice\program2\LinqConsole\LinqConsole\bin\Debug\LinqConsole.exe.config
+D:\practice\program2\LinqConsole\LinqConsole\bin\Debug\LinqConsole.exe
+D:\practice\program2\LinqConsole\LinqConsole\bin\Debug\LinqConsole.pdb
+D:\practice\program2\LinqConsole\LinqConsole\obj\Debug\LinqConsole.csprojResolveAssemblyReference.cache
+D:\practice\program2\LinqConsole\LinqConsole\obj\Debug\LinqConsole.exe
+D:\practice\program2\LinqConsole\LinqConsole\obj\Debug\LinqConsole.pdb
+D:\practice\program2\LinqConsole\LinqConsole\bin\Debug\EntityFramework.dll
+D:\practice\program2\LinqConsole\LinqConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\practice\program2\LinqConsole\LinqConsole\bin\Debug\EntityFramework.xml
+D:\practice\program2\LinqConsole\LinqConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\practice\program2\LinqConsole\LinqConsole\bin\Debug\zh-Hant\EntityFramework.resources.dll
